@@ -26,3 +26,4 @@ Me apasiona la lógica de programación, especialmente en el mundo del backend y
 ## Contactos:
 [![Email](https://img.shields.io/badge/jonasvmoran@gmail.com-email_personal-370000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=26043b)](mailto:jonasvmoran@gmail.com)
 <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/jonas-moran-706008419/)
